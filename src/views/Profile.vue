@@ -49,7 +49,7 @@ export default {
            console.log(response);
          });
       }
-      this.active = !this,active;
+      this.active = !this.active;
     },
   },
   components: {
